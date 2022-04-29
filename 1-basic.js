@@ -9,7 +9,7 @@ const menu = [
   },
   {
     id: 2,
-    title: 'diner doubles',
+    title: 'diner doublesss',
     category: 'lunch',
     price: 13.99,
     img: './images/item-2.jpeg',
